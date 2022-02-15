@@ -1,0 +1,55 @@
+body {
+  color: #000;
+}
+#computeCircularPrime {
+  background-color: yellow;
+  color: black;
+  border-radius: 7px;
+  border-color: black;
+  padding: 10px;
+  font-size: 14pt;
+  font-weight: bold;
+  margin: 10px 130px 10px 130px;
+}
+#userInput {
+  padding: 10px;
+  margin: 10px 50px 10px 50px;
+  width: 400px;
+  font-size: 12 px;
+  font-weight: bold;
+}
+#container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+#result {
+  color: yellow;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: sans-serif;
+  padding: 15px;
+  background-color: black;
+  border-style: none;
+  border-color: black;
+  border-radius: 30px;
+}
+h2 {
+  color: #6c6d6b;
+  margin-bottom: 40px;
+  text-align: center;
+}
+#box {
+  border-color: lightgrey;
+  border-style: groove;
+  border-width: 1px;
+  align-content: center;
+  margin: 70px 100px 50px 100px;
+  text-align: center;
+  align-content: center;
+}
+#small-margin {
+  margin: 5px 20px 5px 20px;
+}
